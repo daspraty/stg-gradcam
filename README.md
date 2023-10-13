@@ -1,6 +1,11 @@
 This is the implementation of STG-GradCAM paper to visualize the importance of Joint-time importance map for STGCNs trained on Skeleton based activity recognition dataset
+
+
 Paper: Gradient-Weighted Class Activation Mapping for Spatio Temporal Graph Convolutional Network
+
+
 Author: Pratyusha Das, Antonio Ortega
+
 Link: https://ieeexplore.ieee.org/document/9746621
 
 Please follow the steps on STGCN_README to train and test the STGCN model
